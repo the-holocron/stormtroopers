@@ -4,6 +4,8 @@
 
 A Stormtrooper is a 100% clone for building out libraries within the Galaxy.
 
+![stormtrooper mask](./stormtrooper.jpg)
+
 ## Installation
 
 ```bash
