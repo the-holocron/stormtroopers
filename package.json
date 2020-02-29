@@ -1,17 +1,17 @@
 {
-  "name": "@theholocron/stormtroopers",
-  "description": "Stormtroopers are 100% clones for building out libraries within the Galaxy.",
-  "homepage": "https://github.com/the-holocron/stormtroopers#readme",
+  "name": "@theholocron/stormtrooper",
+  "description": "stormtrooper are 100% clones for building out libraries within the Galaxy.",
+  "homepage": "https://github.com/the-holocron/stormtrooper#readme",
   "author": "Newton Koumantzelis",
   "version": "0.1.0",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/the-holocron/stormtroopers.git",
-  "bugs": "https://github.com/the-holocron/stormtroopers/issues",
-  "releases": "https://github.com/the-holocron/stormtroopers/releases",
-  "wiki": "https://github.com/the-holocron/stormtroopers/wiki",
+  "repository": "https://github.com/the-holocron/stormtrooper.git",
+  "bugs": "https://github.com/the-holocron/stormtrooper/issues",
+  "releases": "https://github.com/the-holocron/stormtrooper/releases",
+  "wiki": "https://github.com/the-holocron/stormtrooper/wiki",
   "license": "GPL-3.0",
   "alex": {
     "allow": [
@@ -56,7 +56,7 @@
   },
   "scripts": {
     "commit": "commit",
-    "dist:css": "sass src/index.scss dist/stormtroopers.css --load-path=node_modules --load-path=node_modules/@theholocron --output=compressed --source-map",
+    "dist:css": "sass src/index.scss dist/stormtrooper.css --load-path=node_modules --load-path=node_modules/@theholocron --output=compressed --source-map",
     "postdist:css": "postcss dist/styles/*.css --config ./node_modules/@theholocron/postcss-config --replace",
     "dist:js": "babel src -d dist/scripts --source-maps",
     "dist": "npm run dist:js && npm run dist:css",

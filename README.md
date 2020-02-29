@@ -1,13 +1,13 @@
-# Stormtroopers
+# Stormtrooper
 
-[![npm](https://img.shields.io/npm/v/@theholocron/stormtroopers?color=red)](https://www.npmjs.com/package/@theholocron/stormtroopers) [![Build Status](https://github.com/the-holocron/stormtroopers/workflows/CI/badge.svg)](https://github.com/the-holocron/stormtroopers/actions?workflow=CI) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=the-holocron/stormtroopers)](https://dependabot.com)
+[![npm](https://img.shields.io/npm/v/@theholocron/stormtrooper?color=red)](https://www.npmjs.com/package/@theholocron/stormtrooper) [![Build Status](https://github.com/the-holocron/stormtrooper/workflows/CI/badge.svg)](https://github.com/the-holocron/stormtrooper/actions?workflow=CI) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=the-holocron/stormtrooper)](https://dependabot.com)
 
-Stormtroopers are 100% clones for building out libraries within the Galaxy.
+A Stormtrooper is a 100% clone for building out libraries within the Galaxy.
 
 ## Installation
 
 ```bash
-npm install --save @theholocron/stormtroopers
+npm install --save @theholocron/stormtrooper
 ```
 
 ## Table of Contents
@@ -87,7 +87,7 @@ Have a bug or a feature request? Looking to contribute to advance the project? R
 
 </details>
 
-:boom: Interested in how we decide things? Check out our [Mistakes We've Made](https://github.com/the-holocron/stormtroopers/wiki/Mistakes-We've-Made) document for an insight into the things we've considered.
+:boom: Interested in how we decide things? Check out our [Mistakes We've Made](https://github.com/the-holocron/stormtrooper/wiki/Mistakes-We've-Made) document for an insight into the things we've considered.
 
 ## Where to Find Support [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
