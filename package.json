@@ -83,6 +83,6 @@
     "@theholocron/storybook-config": "latest",
     "@theholocron/stylelint-config": "latest",
     "@theholocron/webpack-config": "latest",
-    "alex": "^7.1.0"
+    "alex": "^8.1.1"
   }
 }
